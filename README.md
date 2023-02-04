@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="C:\Users\cindy\Downloads\Light Lock.png">
+  <img width="460" height="300" src="Light Lock.png">
 </p>
 
 # Lock In
