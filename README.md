@@ -3,5 +3,8 @@
 </p>
 
 
-# Lock In
+## Graphical Password Web Application
+
+### CSC 4350
+
 A team of software engineers develop a web application to display a graphical password
