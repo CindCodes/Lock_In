@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="500" src="https://github.com/CindCodes/Lock_In/blob/main/Logo/Light%20Lock.png">
+  <img width="500" height="500" src="https://github.com/CindCodes/Lock_In/blob/main/Logo/Dark%20Lock.png">
 </p>
 
 # Lock In
