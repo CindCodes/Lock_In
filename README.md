@@ -11,6 +11,7 @@ A team of software engineers develop a web application to display a graphical pa
 
 
 ### Sprint 1
+[Sprint 1 Link](https://github.com/CindCodes/Lock_In/tree/main/Sprint_1)
 
 ### Sprint 2
 
