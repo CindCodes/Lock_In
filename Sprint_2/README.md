@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="500" src="https://github.com/CindCodes/Lock_In/blob/main/Task_Boards/Sprint_2/Sprint_2_Task_Board.png">
+  <img width="500" height="450" src="https://github.com/CindCodes/Lock_In/blob/main/Task_Boards/Sprint_2/Sprint_2_Task_Board.png">
 </p>
 
 # Sprint 2
