@@ -10,10 +10,8 @@
 A team of software engineers develop a web application to display a graphical password
 
 
-### Sprint 1
 [Sprint 1](https://github.com/CindCodes/Lock_In/tree/main/Sprint_1)
 
-### Sprint 2
 [Sprint 2](https://github.com/CindCodes/Lock_In/tree/main/Sprint_2)
 
 ### Sprint 3
